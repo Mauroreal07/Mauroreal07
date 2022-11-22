@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋 mi nombre es Mauro Fassetta </h1>
 <h3 align="center">Soy analista en Marketing y Community Manager pero ahora estoy ingresando en el mundo de la programación 😁</h3>
 
-![giphy  los simpson](https://user-images.githubusercontent.com/118296906/203173350-8ed0107e-c261-4d55-b7fd-799e29f579a8.gif)
+![Playing_T-Rex_Runner internet](https://user-images.githubusercontent.com/118296906/203184125-547bb56c-f41e-4d1c-9f43-26ba202c77a9.gif)
+
 
 - 📫 Mail: **maurofassetta@gmail.com**
 
