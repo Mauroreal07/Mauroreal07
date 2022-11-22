@@ -10,7 +10,7 @@
 <a href="https://fb.com/maurofassetta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="maurofassetta" alt="maurofassetta" height="40" width="50" /></a>
 </p>
 
-<h3 align="center">Languajes:</h3>
+<h3 align="center">Lenguajes:</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
