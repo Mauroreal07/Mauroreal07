@@ -15,4 +15,4 @@
 
 
 - 📫 Mail: **maurofassetta@gmail.com**
-- Portfolio: https://gentle-pie-850534.netlify.app/
+- Portfolio: https://radiant-truffle-bac765.netlify.app
