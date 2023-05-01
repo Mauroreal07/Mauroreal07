@@ -1,18 +1,30 @@
-<h1 align="center">Hola 👋 mi nombre es Mauro Fassetta </h1>
-<h3 align="center">Soy analista en Marketing y Community Manager pero ahora estoy ingresando en el mundo de la programación 😁</h3>
+<h2 aling="center">SOBRE MI</h2>
 
-![Playing_T-Rex_Runner internet](https://user-images.githubusercontent.com/118296906/203184125-547bb56c-f41e-4d1c-9f43-26ba202c77a9.gif)
+Soy un desarrollador full stack en
+formación apasionado por la tecnología y
+la programación. Actualmente estoy
+realizando cursos de **Introducción a Java
+Back-End deloveper junior** y **Desarrollo
+Full Stack con Python**, habiendo finalizando
+**Programación inicial con uso de Python**.
+Tengo experiencia en el uso de diferentes
+tecnologías y herramientas en la
+creación de aplicaciones web, tanto en el
+front-end como en el back-end. Soy
+proactivo, colaborativo y siempre busco
+dar lo mejor de mí en los proyectos en
+los que participo.
 
-<h3 align="center">Redes:</h3>
-<p align="center">
-<a href="https://twitter.com/_maurorm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_maurorm_" height="40" width="50" /></a>
-<a href="https://instagram.com/maurofassetta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maurofassetta" height="40" width="50" /></a>
-<a href="https://fb.com/maurofassetta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/facebook.svg" alt="maurofassetta" alt="maurofassetta" height="40" width="50" /></a>
-</p>
+<h2 aling="center">SKILLS</h2>
 
-<h3 align="center">Lenguajes:</h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- **PYTHON** 
+- **JAVA**
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
 
+<h2 aling="center">CONTACTO</h2>
 
-- 📫 Mail: **maurofassetta@gmail.com**
-- Portfolio: https://radiant-truffle-bac765.netlify.app
+-  **PORFOLIO:** https://fassettamauro.netlify.app/ <br>
+-  **MAIL**: maurofassetta@gmail.com/
+-  **LINKEDIN:** https://www.linkedin.com/in/mauro-fassetta-29704617b/
