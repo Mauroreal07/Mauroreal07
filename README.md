@@ -17,7 +17,7 @@ los que participo.
 
 <h2>Proyectos</h2>
 
-<a href="proyectocolegio.netlify.app">Proyecto Colegio</a>
+proyectocolegio.netlify.app
 
 <h2 aling="center">SKILLS</h2>
 
