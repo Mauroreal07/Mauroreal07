@@ -15,6 +15,8 @@ proactivo, colaborativo y siempre busco
 dar lo mejor de mí en los proyectos en
 los que participo.
 
+<p>Primer proyecto: proyectocolegio.netlify.app</p>
+
 <h2 aling="center">SKILLS</h2>
 
 - **PYTHON** 
